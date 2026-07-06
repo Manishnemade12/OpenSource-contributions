@@ -102,17 +102,18 @@ Improves accessibility (WCAG-focused image semantics) by fixing missing, generic
 
 **Tech Stack:** `React` · `Gatsby` · `StaticImage` · `styled-components` · `Accessibility (WCAG)` · `Performance Optimization`
 
+---
 ## OpenMF
 
-### 1
+### 1 fix: add null-guards to dialog close callbacks in savings, clients etc
 Fixed a silent crash affecting Savings, Clients, and Loans modules by adding defensive null-checks across 13 dialog-dismissal callbacks in an Angular application.
 🔗 [View PR](https://github.com/openMF/web-app/pull/3551)
 
 ---
-## OpenMF
+## medic
 
-### 1
+### 1 fix: handle missing documents in updateMessageTaskStates and log warn
 Fixed a silent crash affecting Savings, Clients, and Loans modules by adding defensive null-checks across 13 dialog-dismissal callbacks in an Angular application.
-🔗 [View PR](https://github.com/openMF/web-app/pull/3551)
+🔗 [View PR](https://github.com/medic/cht-core/pull/10945)
 
 ---
