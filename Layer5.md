@@ -40,17 +40,3 @@ Improves accessibility (WCAG-focused image semantics) by fixing missing, generic
 
 ---
 
-## OpenMF
-
-### 1
-Fixed a silent crash affecting Savings, Clients, and Loans modules by adding defensive null-checks across 13 dialog-dismissal callbacks in an Angular application.
-🔗 [View PR](https://github.com/openMF/web-app/pull/3551)
-
----
-## OpenMF
-
-### 1
-Fixed a silent crash affecting Savings, Clients, and Loans modules by adding defensive null-checks across 13 dialog-dismissal callbacks in an Angular application.
-🔗 [View PR](https://github.com/openMF/web-app/pull/3551)
-
----
